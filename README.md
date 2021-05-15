@@ -11,4 +11,4 @@
 - Then run **k8s_setup1.yml** file using *ansible-playbook k8s_setup1.yml*
 > To access wordpress allow nodeport number for wordpress-svc in security group, then use publicIp_Pod:NodePort_number
 
- 
+ ## Blog link: https://yuktachakravarty.medium.com/launch-wordpress-pod-connect-to-mysql-after-configuring-k8s-automatically-using-ansible-bf74728559c4
